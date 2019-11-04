@@ -1,4 +1,4 @@
-# cabbagePrice-tensorflow
+# predict Korean CabbagePrice-tensorflow
 This is AI machine learning for predicting price of Korean cabagge.
 Linear Regression is used for training model.
 
