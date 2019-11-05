@@ -4,8 +4,11 @@ You can predict future price of Korean cabbage fast and easily.
 
 # copyright and reference
 Korean Weather Center: https://data.kma.go.kr/climate/StatisticsDivision/selectStatisticsDivision.do?pgmNo=158
+
 monthly price of Korean cabbage: https://www.kamis.or.kr/customer/price/retail/period.do?
+
 Tutorial: https://www.youtube.com/watch?v=wZvhBVqitn8&list=PL6ip5tgLI7PdRFqrldGQvxB4D4MrMLTEw
+
 Copyright: https://github.com/ndb796/Vegita
 
 It can be run by server.py.
