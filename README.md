@@ -14,7 +14,7 @@ Copyright: https://github.com/ndb796/Vegita
 ### run by server.py
 ```
 # download the source code first.
-git clone https://github.com/ChanJin0801/CabbagePrice-MachineLearning
+git clone https://github.com/ChanJin0801/CabbagePrice-MachineLearning.git
 
 # move to folder.
 cd vegita
