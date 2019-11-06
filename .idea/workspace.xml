@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a981c887-7090-4371-a949-68c3cf5fcf9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vegita/Offline/vegita.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p.py" beforeDir="false" afterPath="$PROJECT_DIR$/vegita/Offline/predict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vegita/.ipynb_checkpoints/vegita-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/vegita/.ipynb_checkpoints/vegita-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vegita/predict.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vegita/price data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/vegita/Offline/price data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vegita/vegita.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,15 +14,16 @@
     <session id="-1428803709">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
-          <entry key="project.open.time.0" value="12" />
+          <entry key="project.closed" value="33" />
+          <entry key="project.open.time.0" value="13" />
           <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="5" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -36,19 +31,19 @@
           <entry key="cfg" value="1" />
           <entry key="csv" value="3" />
           <entry key="html" value="2" />
-          <entry key="ipynb" value="64" />
+          <entry key="ipynb" value="66" />
           <entry key="js" value="1" />
-          <entry key="py" value="27" />
+          <entry key="py" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSV" value="2" />
           <entry key="HTML" value="2" />
-          <entry key="IPNB" value="64" />
+          <entry key="IPNB" value="66" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="27" />
+          <entry key="Python" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -67,6 +62,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vegita/Offline/predict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vegita/Offline/predict.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
@@ -138,6 +145,12 @@
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
               <item name="vegita" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tensorflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="vegita" type="462c0819:PsiDirectoryNode" />
+              <item name="Offline" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -179,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.server">
+  <component name="RunManager" selected="Python.p">
     <configuration name="untitled" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="tensorflow" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,8 +303,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.server" />
         <item itemvalue="Python.p" />
+        <item itemvalue="Python.server" />
         <item itemvalue="Python.train" />
         <item itemvalue="Python.r" />
       </list>
@@ -321,14 +334,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25229034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23819591" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287483" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5034388" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23933975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39942938" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -356,10 +368,10 @@
     <entry file="file://$PROJECT_DIR$/vegita/Web/js/addons/rating.js" />
     <entry file="file://$PROJECT_DIR$/vegita/Untitled.ipynb" />
     <entry file="file://$PROJECT_DIR$/vegita/Offline/price data.csv">
+      <provider editor-type-id="text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial2.ipynb" />
@@ -395,16 +407,6 @@
     <entry file="file://$PROJECT_DIR$/offline/train.py" />
     <entry file="file://$PROJECT_DIR$/vegita/train.ipynb" />
     <entry file="file://$PROJECT_DIR$/predict.ipynb" />
-    <entry file="file://$PROJECT_DIR$/vegita/Offline/predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vegita/Offline/vegita.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -416,6 +418,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vegita/Offline/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
