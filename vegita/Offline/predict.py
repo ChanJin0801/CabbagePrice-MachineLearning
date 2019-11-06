@@ -1,6 +1,5 @@
 import tensorflow as tf
 import numpy as np
-from pandas.io.parsers import read_csv
 
 
 X = tf.placeholder(tf.float32, shape=[None,4])
@@ -13,10 +12,10 @@ hypothesis = tf.matmul(X,W) + b
 model = tf.global_variables_initializer()
 saver = tf.train.Saver()
 
-avg_temp = float(input("평균 온도: "))
-min_temp = float(input("최저 온도: "))
-max_temp = float(input("최고 온도: "))
-rain_fall = float(input("강수량: "))
+avg_temp = float(input("mean temp: "))
+min_temp = float(input("minimum temp: "))
+max_temp = float(input("maximum temp: "))
+rain_fall = float(input("rainfall: "))
 
 with tf.Session() as sess:
     sess.run(model)
