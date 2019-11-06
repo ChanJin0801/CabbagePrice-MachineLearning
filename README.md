@@ -11,7 +11,7 @@ Tutorial: https://www.youtube.com/watch?v=wZvhBVqitn8&list=PL6ip5tgLI7PdRFqrldGQ
 
 Copyright: https://github.com/ndb796/Vegita
 
-### run by server.py
+### run by web server
 ```
 # download the source code first.
 git clone https://github.com/ChanJin0801/CabbagePrice-MachineLearning.git
@@ -26,5 +26,17 @@ cd Web
 python server.py
 ```
 
+### run by jupyter notebook file
+```
+# move to offline folder.
+cd vegita
+
+# move to offline folder.
+cd Offline
+
+# run by offline python file.
+run vegita.ipynb
+run predict.ipynb
+```
 
 ![Screen Shot 2019-11-01 at 4 58 37 PM-down](https://user-images.githubusercontent.com/40285946/68010836-ff655300-fcc8-11e9-8e3e-62386cab4210.png)
