@@ -1,7 +1,7 @@
 # CabbagePrice-tensorflow
-This is AI machine learning for predicting price of Korean cabagge.
+This is AI machine learning for predicting the price of Korean cabbage.
 
-You can predict future price of Korean cabbage fast and easily.
+You can predict the future price of Korean cabbage fast and easily.
 
 # copyright and reference
 Korean Weather Center: https://data.kma.go.kr/climate/StatisticsDivision/selectStatisticsDivision.do?pgmNo=158
